@@ -15,6 +15,6 @@ BEng (Hons) in Aviation Engineering @ The Hong Kong Polytechnic University (Mino
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-l52b1.vercel.app/api?username=ada-jl4025&show_icons=true&theme=tokyonight" alt="Ju Lin's GitHub stats" height="200"/>
-  <img src="https://github-readme-stats-l52b1.vercel.app/api/top-langs/?username=ada-jl4025&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats-l52b1.vercel.app/api?username=Thorkee&show_icons=true&theme=tokyonight" alt="Ju Lin's GitHub stats" height="200"/>
+  <img src="https://github-readme-stats-l52b1.vercel.app/api/top-langs/?username=Thorkee&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
 </p>
